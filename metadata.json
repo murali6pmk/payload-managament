@@ -1,0 +1,6 @@
+{
+  "name": "CloudAttend Payroll",
+  "description": "Cloud-Based Employee Attendance and Payroll Management System with real-time tracking, leave approval, and automated salary calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
